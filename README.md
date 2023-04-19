@@ -1,4 +1,4 @@
-# Interactive Tableau Dashboard Tracking Employment Gender Gap across Europe’s Labour Markets
+# Interactive Tableau Dashboard: Tracking Employment Gender Gap across Europe’s Labour Markets
 
 ## Project Backkground
 The goal of this project was to primarily build an interactive dashboard with which users could track how employment gender gap was performing over time in the European labour market. Based on the most recent available data the following where set out to be captured on the dashboard:
