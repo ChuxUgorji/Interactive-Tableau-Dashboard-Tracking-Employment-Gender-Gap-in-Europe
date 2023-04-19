@@ -35,10 +35,10 @@ The data is sourced from Eurostat’s public data repository, which they have co
 6. Prepare Dashboard
 
 ## Delivered Item
-[Tableau Dashboard](https://public.tableau.com/views/TrackingEmploymentGenderGapintheEuropeanLabourMarket/EUEmploymentGenderGapTrackingDashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+[Click Here to See Interactive Tableau Dashboard](https://public.tableau.com/views/TrackingEmploymentGenderGapintheEuropeanLabourMarket/EUEmploymentGenderGapTrackingDashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-![Dashboard sample 1](Dasboard 1.png)
+![Dashboard sample 1](https://github.com/ChuxUgorji/Interactive-Tableau-Dashboard-Tracking-Employment-Gender-Gap-in-Europe/blob/main/Dashboard%201.png)
 
 
-![Dashboard sample 2](Dashboard 2.png)
+![Dashboard sample 2](https://github.com/ChuxUgorji/Interactive-Tableau-Dashboard-Tracking-Employment-Gender-Gap-in-Europe/blob/main/Dashboard%202.png)
