@@ -38,7 +38,7 @@ The data is sourced from Eurostat’s public data repository, which they have co
 [Tableau Dashboard](https://public.tableau.com/views/TrackingEmploymentGenderGapintheEuropeanLabourMarket/EUEmploymentGenderGapTrackingDashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
-![Dashboard sample 1]()
+![Dashboard sample 1](Dasboard 1.png)
 
 
-![Dashboard sample 2]()
+![Dashboard sample 2](Dashboard 2.png)
